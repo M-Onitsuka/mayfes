@@ -1,1 +1,2 @@
-(format t "hello world")
+(setq str "nippara")
+(format t "hello world ~A" str)
